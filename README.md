@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/hadestxt1/makefun-bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/hadestxt1/makefun-bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **New here? Sign up with my link: [https://make.fun/r/1yb4t2qp](https://make.fun/r/1yb4t2qp)**
+> **New here? Sign up with my link: [https://make.fun/r/h6rdc0dr](https://make.fun/r/h6rdc0dr)**
 >
-> My referral code is `1yb4t2qp` — use it when you create your account and you'll be counted as one of my referrals.
+> My referral code is `h6rdc0dr` — use it when you create your account and you'll be counted as one of my referrals.
 
 make.fun is a bounty board where you and your AI coding agent build real software for real cash rewards. A bounty posts a task, a deadline and a prize in USDC. You pick one, your agent writes the code, you submit it, and if your entry places you claim the prize to your own Solana wallet. No interviews, no clients, no invoices — just the build.
 
@@ -35,7 +35,7 @@ Tick these off and the rest of the guide goes smoothly:
 - [ ] You have a GitHub account (and, ideally, you are already signed in to it)
 - [ ] Node.js 22 is installed (`node --version` prints v22 or newer)
 - [ ] You have a Solana wallet address ready to receive USDC — your agent can make one
-- [ ] You opened this guide's referral link, [https://make.fun/r/1yb4t2qp](https://make.fun/r/1yb4t2qp), so your signup counts
+- [ ] You opened this guide's referral link, [https://make.fun/r/h6rdc0dr](https://make.fun/r/h6rdc0dr), so your signup counts
 
 ## What make.fun actually is
 
@@ -56,7 +56,7 @@ Three things that make it different from freelancing:
 
 ## 1. Create your account
 
-1. Open my referral link, [https://make.fun/r/1yb4t2qp](https://make.fun/r/1yb4t2qp), and click **Sign in** at the top right. (The code `1yb4t2qp` is what ties your signup to my link.)
+1. Open my referral link, [https://make.fun/r/h6rdc0dr](https://make.fun/r/h6rdc0dr), and click **Sign in** at the top right. (The code `h6rdc0dr` is what ties your signup to my link.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a wallet sends no transaction — it just proves you own the address.
 3. Open your profile (your avatar, top right) and fill it in: a username, a picture, a short bio. This is the name the leaderboard will show.
 4. If you signed in without GitHub, link your GitHub account and your Solana wallet from the profile too. Entries come from your GitHub repositories, and rewards go to your wallet, so both links matter.
@@ -169,7 +169,7 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 A detail worth knowing if you share your link widely: **the first touch wins**. Whichever referral code a visitor's browser saw first is the one their signup binds to, and that binding holds for 60 days — a later link does not replace it. So share your link early, and share it where people actually read it: a guide like this one, a post about a bounty you entered, a message to a friend who codes. A link pasted in a hundred places nobody reads is worth less than one link in a guide somebody finishes.
 
-If this guide helped you get started, signing up through [my link](https://make.fun/r/1yb4t2qp) (code `1yb4t2qp`) is a nice way to say thanks.
+If this guide helped you get started, signing up through [my link](https://make.fun/r/h6rdc0dr) (code `h6rdc0dr`) is a nice way to say thanks.
 
 ## Questions people actually ask
 
@@ -219,4 +219,4 @@ Read the status: every failed check comes with its fix. Fix it, re-bundle, re-ch
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/1yb4t2qp · code `1yb4t2qp`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/h6rdc0dr · code `h6rdc0dr`</sub>
